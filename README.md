@@ -28,7 +28,7 @@
     <progress value="30" max="100"></progress>
 <h4>More About Me</h4>
 <details><summary>my childhood</summary>I grow up in egypt.I live in maadi and Im 18 years old.</details>
-<img src="wd4e.PNG" alt="">
+<img src="wd4e.png" alt="">
 <p>this page was creat by Ahmed & Colleen van Lent. to learn more about web design,vist <a href="">intro to Web Design</a></p>
 </body>
 </html>
